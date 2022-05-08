@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+#search {
+  margin: auto;
+}
+#logo {
+  margin: auto;
+}
+#moviesData {
+  display: flex;
+  width: 40%;
+  margin: auto;
+
+  padding: 50px;
+
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+    rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+}
+.datadiv {
+  margin-left: 30px;
+  border: 1px solid black;
+  color: white;
+  text-align: left;
+}
